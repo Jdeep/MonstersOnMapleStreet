@@ -23,7 +23,13 @@ Class Monsters
 {
 	public:
 		
-
+		IntroDisplay();
+		Meteor();
+		tommy();
+		vanHorn();
+		lesGoodman();
+		steve();
+		
 
 
 }
