@@ -45,7 +45,7 @@ Meteor()
     system("pause");
   }
   else{
-    
+cout<<"YOU: Everybody calm down, I'm sure that this is nothing to get worked up over. If the power still isn't back by tomorrow then we'll go see what's going on "
   }
 
   
